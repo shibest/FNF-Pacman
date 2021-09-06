@@ -5,5 +5,4 @@
 
 Source Code
 
-Links: **[GameBanana mod page](https://gamebanana.com/mods/319592)
-
+Links: [GameBanana mod page](https://gamebanana.com/mods/319592)
