@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pacman.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PACMAN IDLE instance 10000" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="PACMAN IDLE instance 10001" x="200" y="0" width="200" height="200"/>
+	<SubTexture name="PACMAN IDLE instance 10002" x="400" y="0" width="200" height="200"/>
+	<SubTexture name="PACMAN IDLE instance 10003" x="0" y="200" width="200" height="200"/>
+	<SubTexture name="PACMAN IDLE instance 10004" x="200" y="200" width="200" height="200"/>
+	<SubTexture name="PACMAN IDLE instance 10005" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="PACMAN IDLE instance 10006" x="0" y="400" width="200" height="200"/>
+	<SubTexture name="PACMAN IDLE instance 10007" x="200" y="400" width="200" height="200"/>
+	<SubTexture name="PACMAN IDLE instance 10008" x="400" y="400" width="200" height="200"/>
+	
+	<SubTexture name="PACMAN RIGHT NOTE instance 10000" x="600" y="0" width="200" height="200"/>
+	<SubTexture name="PACMAN RIGHT NOTE instance 10001" x="800" y="0" width="200" height="200"/>
+	<SubTexture name="PACMAN RIGHT NOTE instance 10002" x="600" y="200" width="200" height="200"/>
+	<SubTexture name="PACMAN RIGHT NOTE instance 10003" x="800" y="200" width="200" height="200"/>
+	<SubTexture name="PACMAN RIGHT NOTE instance 10004" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="PACMAN RIGHT NOTE instance 10005" x="800" y="400" width="200" height="200"/>
+	
+	<SubTexture name="PACMAN LEFT NOTE instance 10000" x="1000" y="0" width="200" height="200"/>
+	<SubTexture name="PACMAN LEFT NOTE instance 10001" x="1200" y="0" width="200" height="200"/>
+	<SubTexture name="PACMAN LEFT NOTE instance 10002" x="1000" y="200" width="200" height="200"/>
+	<SubTexture name="PACMAN LEFT NOTE instance 10003" x="1200" y="200" width="200" height="200"/>
+	<SubTexture name="PACMAN LEFT NOTE instance 10004" x="1000" y="400" width="200" height="200"/>
+	
+	<SubTexture name="PACMAN UP NOTE instance 10000" x="1400" y="0" width="200" height="200"/>
+	<SubTexture name="PACMAN UP NOTE instance 10001" x="1600" y="0" width="200" height="200"/>
+	<SubTexture name="PACMAN UP NOTE instance 10002" x="1400" y="200" width="200" height="200"/>
+	
+	<SubTexture name="PACMAN DOWN NOTE instance 10000" x="1800" y="0" width="200" height="200"/>
+	<SubTexture name="PACMAN DOWN NOTE instance 10001" x="2000" y="0" width="200" height="200"/>
+	<SubTexture name="PACMAN DOWN NOTE instance 10002" x="1800" y="200" width="200" height="200"/>
+	
+</TextureAtlas>
